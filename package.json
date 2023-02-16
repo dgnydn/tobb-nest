@@ -21,16 +21,16 @@
     "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "dependencies": {
-    "@nestjs/common": "^9.0.0",
-    "@nestjs/core": "^9.0.0",
-    "@nestjs/mapped-types": "*",
-    "@nestjs/platform-express": "^9.0.0",
-    "@types/aws-lambda": "^8.10.109",
+    "@nestjs/common": "^9.3.9",
+    "@nestjs/core": "^9.3.9",
+    "@nestjs/mapped-types": "1.2.2",
+    "@nestjs/platform-express": "^9.3.9",
+    "@types/aws-lambda": "^8.10.110",
     "aws-lambda": "^1.0.7",
     "aws-serverless-express": "^3.4.0",
     "cheerio": "^1.0.0-rc.12",
     "reflect-metadata": "^0.1.13",
-    "rimraf": "^3.0.2",
+    "rimraf": "^4.1.2",
     "rxjs": "^7.2.0"
   },
   "devDependencies": {
